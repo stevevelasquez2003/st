@@ -1,1 +1,0 @@
- lo visto en la clase anterior fue: creamos repositorio,carpeta nos enseño comandos para guardar cambios, crear rama ,cambiar rama , como crear carpeta,como eliminar el archivo y unos cuantos mas
