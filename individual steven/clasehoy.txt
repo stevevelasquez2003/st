@@ -1,0 +1,2 @@
+en la clase de hoy creamos archivos,ramas,cambiamos ramas ,agregamos archivos,cambiamos de rama y juntamos el contenido de ambas ramas
+hice otro cambio
